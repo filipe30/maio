@@ -49,5 +49,5 @@ os seguintes atributos:
 */
 
 var cart = document.getElementsByClassName("previewCart")[0].innerText;
-var objeto = JSON.stringify(titlePoduct);
+var objeto = JSON.stringify(cart);
 console.log(objeto)
